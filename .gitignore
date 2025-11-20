@@ -1,0 +1,18 @@
+# Java
+*.class
+
+# C++
+*.o
+*.exe
+
+# BlueJ
+*.ctxt
+package.bluej
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Other
+*.log

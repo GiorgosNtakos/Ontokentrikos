@@ -28,7 +28,7 @@ Location: `labs/java-set-1/`
 **Focus:**  
 - Classes, inheritance and polymorphism  
 - Abstract classes and method overriding  
-- Collections (`ArrayList`, iterators, generics)  
+- Collections (`ArrayList`, `iterators`, `generics`)  
 - Exception handling and custom exceptions  
 - File I/O (reading/writing text and binary files)   
 

@@ -1,6 +1,6 @@
 > 🇬🇷 Ελληνική έκδοση: [README_GR.md](./README_GR.md)
 
-# Ontokentrikos – Object-Oriented Programming Coursework
+# Ontokentrikos – Object-Oriented Programming Coursework - 2019-2020
 
 This repository contains coursework from the **second-semester course  
 "Ontokentrikos Programmatismos" (Object-Oriented Programming)**  

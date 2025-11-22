@@ -4,12 +4,13 @@ public class Main
     public static void main(String args[])
     {
         
-        Menu menu= new Menu();
-        Owner owner=new Owner("Takhs Tsoukalas","Takhs7Tsoukalas@hotmail.com");
-        EShop eshop=new EShop("Ceid Shop", owner);
+        Owner owner = new Owner("Takhs Tsoukalas","Takhs7Tsoukalas@hotmail.com");
+        EShop eshop = new EShop("Ceid Shop", owner);
         
-        Buyer buyer1=new Buyer("Kwstas Raptopoylos","RapMarmita@hotmail.com");
-        Buyer buyer2=new Buyer("Iwannhs Tsilligiris","TsiliKafeneio@yahoo.com");
+        Menu menu = new Menu(eshop);
+        
+        Buyer buyer1 = new Buyer("Kwstas Raptopoylos","RapMarmita@hotmail.com");
+        Buyer buyer2 = new Buyer("Iwannhs Tsilligiris","TsiliKafeneio@yahoo.com");
         eshop.addBuyer(buyer1);
         eshop.addBuyer(buyer2);
 

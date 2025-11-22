@@ -6,8 +6,7 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Java](https://img.shields.io/badge/Java-11-orange.svg)
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/GiorgosNtakos/Ontokentrikos)
-![Last Commit](https://img.shields.io/github/last-commit/GiorgosNtakos/Ontokentrikos)
+![Contributors](https://img.shields.io/badge/Contributors-2-lightgrey.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/GiorgosNtakos/Ontokentrikos)
 ![Code Size](https://img.shields.io/github/languages/code-size/GiorgosNtakos/Ontokentrikos)
 
@@ -129,4 +128,9 @@ src/
 ---
 
 ## 👥 Contributors
+
+**`Giorgos Ntakos`**
+
+**`Asimomytis Damianos`**
+
 Project fully implemented by the two students as part of the CEID OOP course.

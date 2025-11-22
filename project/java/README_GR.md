@@ -1,5 +1,12 @@
 # CEID E-Shop — Project Αντικειμενοστραφούς Προγραμματισμού 2019- 2020 (Java)
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Java](https://img.shields.io/badge/Java-11-orange.svg)
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
+![Contributors](https://img.shields.io/badge/Contributors-2-lightgrey.svg)
+![Repo Size](https://img.shields.io/github/repo-size/GiorgosNtakos/Ontokentrikos)
+![Code Size](https://img.shields.io/github/languages/code-size/GiorgosNtakos/Ontokentrikos)
+
 Πλήρης υλοποίηση συστήματος ηλεκτρονικού καταστήματος σε Java (console), στο πλαίσιο του μαθήματος ΑΠ (CEID – Πανεπιστήμιο Πατρών).  
 Όλος ο κώδικας υλοποιήθηκε εξολοκλήρου από τους δύο φοιτητές σύμφωνα με την επίσημη εκφώνηση.
 
@@ -120,4 +127,9 @@ src/
 ---
 
 ## 👥 Συντελεστές
+
+**`Giorgos Ntakos`**
+
+**`Asimomytis Damianos`**
+
 Το project υλοποιήθηκε πλήρως από τους δύο φοιτητές στο πλαίσιο του μαθήματος Αντικειμενοστραφούς Προγραμματισμού (CEID).

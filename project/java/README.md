@@ -2,9 +2,14 @@
 
 # CEID E-Shop — Object Oriented Programming Project 2019 - 2020 (Java)
 
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![Contributors](https://img.shields.io/badge/Contributors-2-lightgrey.svg)
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Java](https://img.shields.io/badge/Java-11-orange.svg)
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/GiorgosNtakos/Ontokentrikos)
+![Last Commit](https://img.shields.io/github/last-commit/GiorgosNtakos/Ontokentrikos)
+![Repo Size](https://img.shields.io/github/repo-size/GiorgosNtakos/Ontokentrikos)
+![Code Size](https://img.shields.io/github/languages/code-size/GiorgosNtakos/Ontokentrikos)
 
 A full Java console application simulating an online shop system, developed for the Object-Oriented Programming course (CEID – University of Patras).  
 All code was implemented entirely by the two contributors according to the official project specification.

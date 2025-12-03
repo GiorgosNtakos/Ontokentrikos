@@ -102,7 +102,7 @@ Courier:
 ---
 
 ## 📁 Δομή Project
-
+```
 src/
  ├── Main.java  
  ├── Menu.java  
@@ -123,7 +123,7 @@ src/
       ├── WrongID.java  
       ├── DuplicateItemIDException.java  
       └── DuplicateBuyerEmailException.java  
-
+```
 ---
 
 ## 👥 Συντελεστές

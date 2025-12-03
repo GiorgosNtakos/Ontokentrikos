@@ -103,7 +103,7 @@ Used as required by the specification (instead of extensive if-else checks).
 ---
 
 ## 📁 Project Structure
-
+```
 src/
  ├── Main.java  
  ├── Menu.java  
@@ -124,7 +124,7 @@ src/
       ├── WrongID.java  
       ├── DuplicateItemIDException.java  
       └── DuplicateBuyerEmailException.java  
-
+```
 ---
 
 ## 👥 Contributors
